@@ -15,3 +15,13 @@ footer span {
 footer p {
   margin: 20px;
 }
+
+h1 {
+  color: red;
+}
+p span {
+  font-weight: bold;
+}
+p {
+  color: green;
+}
