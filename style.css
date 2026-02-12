@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+footer {
+  padding: 20px 40px;
+  background-color: pink;
+  font-weight: bold;
+  color: #fff;
+}
+footer span {
+  font-weight: normal;
+  margin-right: 30px;
+}
+footer p {
+  margin: 20px;
+}
+
+h1 {
+  color: red;
+}
+p span {
+  font-weight: bold;
+}
+p {
+  color: green;
+}
